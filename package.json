@@ -15,7 +15,7 @@
   "dependencies": {
     "cheerio": "0.19.0",
     "lodash": "3.6.0",
-    "request": "2.55.0"
+    "request": "2.69.x"
   },
   "devDependencies": {
     "expect.js": "0.3.1",
